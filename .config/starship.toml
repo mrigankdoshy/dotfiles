@@ -16,8 +16,8 @@ command_timeout = 10000
 disabled = true
 
 [character]
-success_symbol = " [](sapphire)"
-error_symbol = " [](red)"
+success_symbol = "[❯](sapphire)"
+error_symbol = "[❯](red)"
 vimcmd_symbol = "[  ](green)"
 
 [hostname]
