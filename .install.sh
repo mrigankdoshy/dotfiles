@@ -55,6 +55,10 @@ brew install --cask discord
 brew install --cask font-meslo-lg-nerd-font
 brew install --cask font-jetbrains-mono
 
+### Oh my zsh
+echo "Installing Oh my zsh"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
 # App Store Apps
 echo "Installing App Store Apps..."
 ## Xcode
